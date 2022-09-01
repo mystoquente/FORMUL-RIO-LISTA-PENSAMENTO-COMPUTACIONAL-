@@ -1,0 +1,107 @@
+
+<html>
+ <head>
+	<body>
+ <h1> - Formúlario 📝 </h1> </head>
+<style>
+body {
+	background-color: #FFFBE7
+	}
+
+	h1 {
+		text-align: center;
+	p
+     }
+   
+body  {
+font-style: italic;
+	}
+</style>
+<body>
+	<p> - Qual o seu nome? 👻 </p>
+ <input type= "text">
+	<p> - Qual sua cor preferida? 🎨 </p>
+<label for= "1"> · Azul </label>
+<input type="checkbox" id="1"></br>
+<label for= "2"> · Vermelho </label>
+<input type="checkbox" id="2"></br>
+<label for= "3"> · Amarelo </label>
+<input type="checkbox" id="3"></br>
+<label for= "4"> · Roxo </label>
+<input type="checkbox" id="4"></br>
+<label for="5"> · Verde </label>
+<input type= "checkbox" id="5"></br> 
+<label for="6"> · Laranja </label>
+<input type= "checkbox" id="6"></br>
+<label for= "7"> · Outro </label>
+<input type= "checkbox" id="7"></br>
+
+<p> - Qual sua bebida Favorita?🥛 </p>
+<label for= "1"> · Água </label>
+<input type="checkbox" id="1"></br>
+<label for= "2"> · Suco </label>
+<input type="checkbox" id="2"></br>
+<label for= "3"> · Refrigerante </label>
+<input type="checkbox" id="3"></br>
+<label for= "4"> · Café </label>
+<input type="checkbox" id="4"></br>
+<label for="5"> · Bebida Alcoólica </label>
+<input type= "checkbox" id="5"></br> 
+<label for="6"> · Leite </label>
+<input type= "checkbox" id="6"></br>
+<label for="6"> · Outro </label>
+<input type= "checkbox" id="6"></br>
+
+<p> - 🐶 Gato ou Cachorro? 🐱 </p>
+<label for= "1"> · Gato </label>
+<input type="checkbox" id="1"></br>
+<label for= "2"> · Cachorro </label>
+<input type="checkbox" id="2"></br>
+<label for= "3"> · Os dois </label>
+<input type="checkbox" id="3"></br>
+<label for= "4"> · Nenhum </label>
+<input type="checkbox" id="4"></br>
+<label for="5"> · Que tipo de Perguntas ruins São Essas? </label>
+<input type= "checkbox" id="5"></br>
+
+
+<p> - O Corpo Humano Tem 206 Ossos 💀</p>
+<label for= "V"> · verdadeiro </label>
+<input type="radio" name="Ver" id="V">
+<label for= "f"> · falso </label>
+<input type="radio" name="ver" id="f">
+	
+<p> - Qual você acha melhor; Assistir um filme no Cinema ou em Casa?📼</p>
+<label for= "E"> · Em casa; é mais Confortável. </label>
+<input type="radio" name="Em" id="E">
+</br>
+<label for= "N"> · No cinema; uma melhor experiência ; é divertido. </label>
+<input type="radio" name="No" id="N">
+	
+<p> - Prefere o café com ou sem açúcar? ☕ </p>
+<label for= "C"> · Com açúcar; quem toma café sem açúcar já desistiu de viver. </label>
+<input type="radio" name="Com" id="C"></br>
+<label for= "S"> · Sem açúcar; o Café Doce é exagerado. </label>
+<input type="radio" name="Sem" id="S"></br>
+<form action "mailtonsantos.anderson@escola.pr.gov.br">
+</br>
+<input type="submit" value="Enviar formulário" class="enviar">
+<body>
+	
+<style>
+	.enviar {
+		width: 40%;
+		padding: 15px 0;
+		background: red;
+		color: white;
+		font-weight: bold;
+		font-size: 11px;
+		border: none;
+		border-radius: 5px;
+		}
+		</style>
+	
+</body>
+</html>
+
+
